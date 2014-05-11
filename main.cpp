@@ -113,7 +113,6 @@ int main()
 	cout << "Bottom: " << moves << endl;
 	clearMoves();
 	print();
-	cin.get();
 	return 0;
 }
 
